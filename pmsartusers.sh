@@ -1,13 +1,13 @@
 #! /bin/bash
 
 ########################################################################################################
-#	  pmsartusers.sh
+#   pmsartusers.sh
 #
 #
-#    Place in /usr/local/outset/boot-once
+#   Place in /usr/local/outset/boot-once
 #
-#	  Creates 7 local accounts, 1 for each period, for student use in the PMS Art iMac lab.
-#	  The accounts are for organizational purposes only, not security. Passwords are all blank.
+#   Creates 7 local accounts, 1 for each period, for student use in the PMS Art iMac lab.
+#   The accounts are for organizational purposes only, not security. Passwords are all blank.
 #	
 ########################################################################################################
 
